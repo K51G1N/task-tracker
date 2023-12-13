@@ -1,24 +1,10 @@
 # task-tracker
 
-## Project setup
-```
-npm install
-```
+I created this task-tracker by following the youtube tutorial [Vue JS Crash Course - Traversy Media](https://youtu.be/qZXt1Aom3Cs?si=1CmvF5fIotl1lU7T)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+So far it just toggles on reminder and you can clear a list of tasks
 
-### Compiles and minifies for production
-```
-npm run build
-```
+TODO:
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- Add tasks
+- Update tasks
